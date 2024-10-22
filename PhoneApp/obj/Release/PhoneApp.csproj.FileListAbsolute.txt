@@ -1,0 +1,16 @@
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\bin\Release\EmployeesLoader.Plugin.dll
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\bin\Release\EmployeesViewer.Plugin.dll
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\bin\Release\EmployeesViewer.Plugin.pdb
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\bin\Release\PhoneApp.exe.config
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\bin\Release\PhoneApp.exe
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\bin\Release\PhoneApp.pdb
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\bin\Release\NLog.dll
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\bin\Release\NLog.xml
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\obj\Release\PhoneApp.csproj.AssemblyReference.cache
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\obj\Release\PhoneApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\obj\Release\PhoneApp.csproj.CoreCompileInputs.cache
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\obj\Release\PhoneApp.csproj.CopyComplete
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\obj\Release\PhoneApp.exe
+C:\Users\ipakh\Downloads\PhonePluginsApplication-master\PhonePluginsApplication-master\PhoneApp\obj\Release\PhoneApp.pdb
